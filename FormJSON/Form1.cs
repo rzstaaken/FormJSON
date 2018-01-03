@@ -21,7 +21,6 @@ namespace FormJSON
         public Form1()
         {
             InitializeComponent();
-
         }
 
 
